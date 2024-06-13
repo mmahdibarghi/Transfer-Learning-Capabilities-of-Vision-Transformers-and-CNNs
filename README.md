@@ -33,19 +33,19 @@ This project explores the transfer learning capabilities of vision transformers 
 
 To get started with this project, clone the repository and install the required dependencies:
 
-\`\`\`bash
+```bash
 git clone https://github.com/mmahdibarghi/Transfer-Learning-Capabilities-of-Vision-Transformers-and-CNNs.git
 cd investigating-transfer-learning
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
 To run the experiments, simply execute the Jupyter Notebook:
 
-\`\`\`bash
+```bash
 jupyter notebook Investigating_Transfer_Learning_Capabilities_of_Vision_Transformers_and_CNNs_by_Fine_Tuning_a_Single_Trainable_Block.ipynb
-\`\`\`
+```
 
 Ensure that the necessary datasets and pre-trained models are available in the specified directories.
 
