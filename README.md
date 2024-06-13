@@ -7,8 +7,6 @@ Investigating Transfer Learning Capabilities of Vision Transformers and CNNs by 
 
 - [Introduction](#introduction)
 - [Abstract](#abstract)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Experimental Setup](#experimental-setup)
   - [Dataset](#dataset)
   - [Models](#models)
@@ -29,23 +27,6 @@ Recent advancements in the field of computer vision have seen the rise of transf
 
 This project explores the transfer learning capabilities of vision transformers and CNNs by fine-tuning only the last trainable block of pre-trained models on CIFAR-10. We compare their performance in terms of accuracy and efficiency. Our results show that transformer-based architectures not only achieve higher accuracy but also do so with fewer parameters compared to CNNs.
 
-## Installation
-
-To get started with this project, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/mmahdibarghi/Transfer-Learning-Capabilities-of-Vision-Transformers-and-CNNs.git
-cd investigating-transfer-learning
-pip install -r requirements.txt
-```
-
-## Usage
-
-To run the experiments, simply execute the Jupyter Notebook:
-
-```bash
-jupyter notebook Investigating_Transfer_Learning_Capabilities_of_Vision_Transformers_and_CNNs_by_Fine_Tuning_a_Single_Trainable_Block.ipynb
-```
 
 Ensure that the necessary datasets and pre-trained models are available in the specified directories.
 
