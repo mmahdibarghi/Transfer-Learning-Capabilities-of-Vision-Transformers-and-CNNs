@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## References
 
-1. 
-2. Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." *International Conference on Learning Representations*. 2021.
+1. Malpure, D., Litake, O. and Ingle, R., 2021. Investigating transfer learning capabilities of vision transformers and CNNs by fine-tuning a single trainable block. arXiv preprint arXiv:2110.05270.
+2. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S. and Uszkoreit, J., 2020. An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929.
